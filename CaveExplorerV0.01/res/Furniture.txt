@@ -1,0 +1,21 @@
+New Wood Table, 45, 32
+Granite Table, 64, 38
+Lg. Sofa, 92, 38
+Sm. Sofa, 68, 38
+David's Desk, 36, 30
+Lgt. Brn. Desk, 41, 19
+Lg. Dark Wood Bookshelf, 36, 12
+Lg. Dark Wood Bookshelf, 36, 12
+Sm. Wood Bookshelf, 36, 12
+Sm. Wood Bookshelf, 36, 12
+Sm. Black Dresser, 30, 19
+Lg. Wood TV Shelf, 32, 17
+Bed, 90, 80
+Long Triple Dresser, 65, 20
+Lg Lt Wood Bookshelf, 30, 12
+Fancy Wood Nighttable, 26, 21
+Sm Wood Table, 23, 23
+Blue Dresser, 36, 20
+Sm Lgt Brn Dresser, 39, 19
+Small Wood Bookcase, 30, 12
+

@@ -1,0 +1,20 @@
+New Wood Table, 773, 535, 45, 32, -3.141593
+Granite Table, 206, 450, 64, 38, -4.71239
+Lg. Sofa, 734, 433, 92, 38, 0.0
+Sm. Sofa, 624, 540, 68, 38, -1.5707963
+David's Desk, 579, 195, 36, 30, 0.0
+Lgt. Brn. Desk, 194, 290, 41, 19, -1.5707963
+Lg. Dark Wood Bookshelf, 545, 403, 36, 12, -1.5707963
+Lg. Dark Wood Bookshelf, 546, 475, 36, 12, -1.5707963
+Sm. Wood Bookshelf, 695, 147, 36, 12, -3.141593
+Sm. Wood Bookshelf, 694, 146, 36, 12, -3.141593
+Sm. Black Dresser, 865, 610, 30, 19, -0.7853982
+Lg. Wood TV Shelf, 412, 517, 32, 17, 3.141593
+Bed, 1093, 478, 90, 80, -3.1415932
+Long Triple Dresser, 926, 603, 65, 20, -1.5707963
+Lg Lt Wood Bookshelf, 201, 377, 30, 12, -1.5707964
+Fancy Wood Nighttable, 667, 446, 26, 21, 1.5707963
+Sm Wood Table, 748, 625, 23, 23, 0.0
+Blue Dresser, 330, 512, 36, 20, -3.141593
+Sm Lgt Brn Dresser, 955, 481, 39, 19, -1.5707963
+Small Wood Bookcase, 884, 347, 30, 12, -3.141593
